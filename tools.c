@@ -57,7 +57,7 @@ char *intToChar(int num)
  *error_print - print error
  *@name: error name
  *@command: commande
- *@index: index
+ *@index: indexing
  *
  */
 void error_print(char *name, char *command, int index)
